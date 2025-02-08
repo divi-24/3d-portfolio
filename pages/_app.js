@@ -28,7 +28,7 @@ export default function App({ Component, pageProps }) {
 		"Hello! I'm Deepak Gupta, a passionate web developer and problem solver. Welcome to my portfolio";
 	const avatar =
 		"/assets/tech/divi.jpeg";
-	const url = "";
+	const url = "https://3d-portfolio-rouge-seven.vercel.app/";
 
 	return (
 		<>
