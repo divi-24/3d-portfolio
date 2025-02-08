@@ -68,13 +68,13 @@ export default function App({ Component, pageProps }) {
 				/>
 				<link
 					rel="icon"
-					type="image/jpeg"
+					type="image/png"
 					sizes="16x16"
-					href="/assets/tech/divi.jpeg"
+					href="/assets/tech/fvg.png"
 				/>
 				<link
 					rel="manifest"
-					href="/assets/tech/divi.jpeg"
+					href="/assets/tech/fvg.png"
 				/>
 			</Head>
 
