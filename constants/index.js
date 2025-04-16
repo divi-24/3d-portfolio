@@ -254,7 +254,7 @@ const projects = [
   {
     name: "SheSync",
     description:
-      "SheSync is a platform designed to support women’s health and wellness by providing personalized cycle tracking, self-care tips, and community engagement. It offers a seamless and intuitive interface to help users stay informed about their menstrual health while fostering a supportive space for discussions and shared experiences. 🚀💖",
+      "SheSync is a platform designed to support women's health and wellness by providing personalized cycle tracking, self-care tips, and community engagement. It offers a seamless and intuitive interface to help users stay informed about their menstrual health while fostering a supportive space for discussions and shared experiences. 🚀💖",
     tags: [
       {
         name: "react",
@@ -282,16 +282,16 @@ const projects = [
     deployed_link: "https://shesync.netlify.app/",
   },
   {
-    name: "ARJewellery",
+    name: "Thrive",
     description:
-      "ARJewellery is an interactive platform that blends Augmented Reality (AR) with digital art, allowing users to experience creative storytelling in an immersive way. It transforms static visuals into dynamic, interactive experiences, pushing the boundaries of digital expression. 🎨🚀",
+      "Thrive is a platform that brings together developers, designers, and innovators to collaborate on solving real-world problems through hackathons. It provides a space for creative problem-solving and networking opportunities. 🚀💡",
     tags: [
       {
-        name: "Html",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "Css",
+        name: "next.js",
         color: "green-text-gradient",
       },
       {
@@ -299,17 +299,13 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "Javascript",
+        name: "typescript",
         color: "orange-text-gradient",
       },
-      {
-        name: "AR",
-        color: "yellow-text-gradient",
-      },
     ],
-    image: "/assets/projects/AR.png",
-    source_code_link: "https://github.com/divi-24/AR.git",
-    deployed_link: "https://ar-liart-three.vercel.app/",
+    image: "/assets/projects/thrve.png",
+    source_code_link: "https://github.com/divi-24/thrve-hack",
+    deployed_link: "https://thrve-hack.vercel.app/",
   },
   {
     name: "RepoScout",
@@ -343,6 +339,188 @@ const projects = [
     deployed_link:
       "https://repo-scout-two.vercel.app/",
   },
+  {
+    name: "Kisaan Setu",
+    description:
+      "Kisaan Setu is a platform connecting farmers with modern agricultural resources, market information, and expert advice. It aims to bridge the gap between traditional farming practices and modern technology. 🌾🚜",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "node.js",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/kisaan.png",
+    source_code_link: "https://github.com/divi-24/kisaan-setu",
+    deployed_link: "https://kisaan-setu-f.vercel.app/",
+  },
+  {
+    name: "ResQPlate",
+    description:
+      "ResQPlate is a food rescue platform that connects restaurants and food businesses with local charities to reduce food waste and help those in need. It's a sustainable solution for food redistribution. 🍽️🤝",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/resq.png",
+    source_code_link: "https://github.com/divi-24/resqplate",
+    deployed_link: "https://resqplate.vercel.app/",
+  },
+  {
+    name: "Divios",
+    description:
+      "Divios is a modern portfolio platform that helps creators showcase their work in a beautiful and interactive way. It features 3D elements and smooth animations for an engaging user experience. 🎨✨",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "three.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "framer-motion",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/divios.png",
+    source_code_link: "https://github.com/divi-24/divios",
+    deployed_link: "https://divios.vercel.app/",
+  },
+  {
+    name: "InnerBloom",
+    description:
+      "InnerBloom is a mental wellness platform that provides resources, tools, and community support for mental health. It offers guided meditation, journaling, and professional support. 🧘‍♀️💫",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/inner.png",
+    source_code_link: "https://github.com/divi-24/innerbloom",
+    deployed_link: "https://innerbloom.vercel.app/",
+  },
+  {
+    name: "Quake",
+    description:
+      "Quake is an earthquake monitoring and alert system that provides real-time data and safety information. It helps communities stay informed and prepared for seismic activities. 🌍🔔",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "API",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/quake.png",
+    source_code_link: "https://github.com/divi-24/quake-sigma",
+    deployed_link: "https://quake-sigma.vercel.app/",
+  },
+  {
+    name: "Disaster Management",
+    description:
+      "Disaster Management is a platform that helps communities stay informed and prepared for disasters. It provides real-time data and safety information. 🌍🔔",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/dm.png",
+    source_code_link: "https://github.com/divi-24/dm-two-pi",
+    deployed_link: "https://dm-two-pi.vercel.app/",
+  },
+  {
+    name: "Mapify",
+    description:
+      "Mapify is a platform that helps users discover and share local experiences. It features interactive maps, reviews, and community features. 🗺️🌟",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mapbox",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/projects/mapp.png",
+    source_code_link: "https://github.com/divi-24/mapp",
+    deployed_link: "https://mapp-roan.vercel.app/",
+  }
 ];
 
 const socials = [
