@@ -81,7 +81,7 @@ function About() {
         </div>
 
         <Link
-          href="document/CVP.pdf"
+          href="document/deepak_gupta.pdf"
           target="_blank"
           rel="noreferrer"
           className="w-fit px-6 py-3 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-purple-500/25"
