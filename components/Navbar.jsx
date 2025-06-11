@@ -73,7 +73,7 @@ function Navbar() {
 								Deepak Gupta &nbsp;
 								<span className="lg:block hidden">
 									{" "}
-									| Frontend Developer
+									| Full Stack Developer
 								</span>
 							</p>
 						</Link>
