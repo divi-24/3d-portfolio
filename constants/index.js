@@ -185,9 +185,39 @@ const experiences = [
     company_name: "Contributor at SWOC",
     icon: "/assets/company/sw.png",
     iconBg: "#E6DEDD",
-    date: "January 2025 - February 2025",
+    date: "December 2024 - February 2025",
     points: [
       "Actively contributed to open-source projects under Script Winter of Code, improving web development solutions and collaborating with the community. Focused on enhancing UI/UX, optimizing code, and building impactful digital experiences. 🚀✨",
+    ],
+  },
+  {
+    title: "Frontend Developer Intern ",
+    company_name: "IndiBus",
+    icon: "/assets/company/indi.png",
+    iconBg: "#E6DEDD",
+    date: "March 2025 - April 2025",
+    points: [
+      " I was responsible for building responsive and intuitive user interfaces using React.js. I collaborated closely with backend developers to integrate RESTful APIs, ensuring smooth data exchange across the platform. I improved overall UI/UX by implementing modern design practices with Tailwind CSS, aligning the interface with the brand’s identity. My work involved developing reusable components, optimizing performance for both mobile and desktop experiences, and actively participating in daily stand-ups and sprint planning sessions within an agile team environment.",
+    ],
+  },
+  {
+    title: "Project Admin ",
+    company_name: "SSOC",
+    icon: "/assets/company/ssoc.png",
+    iconBg: "#E6DEDD",
+    date: "May 2025 -  Present",
+    points: [
+      "As a Project Admin at SSOC (Smart Summer of Code) since May 2025, I have been leading and managing open-source project contributions while mentoring budding developers. My responsibilities include onboarding contributors, creating and assigning issues, reviewing pull requests, and ensuring code quality and consistency across the repository. I also handle documentation, guide contributors through Git workflows, and conduct regular check-ins to track progress. This role has allowed me to foster a collaborative environment, promote best practices in open-source development, and contribute to the growth of a passionate developer community.",
+    ],
+  },
+  {
+    title: "Web Dev & Resume Building Mentor ",
+    company_name: "SSSC by TechNeeds IGDTUW",
+    icon: "/assets/company/sssc.png",
+    iconBg: "#E6DEDD",
+    date: "June 2025 - present",
+    points: [
+      "As a Web Development and Resume Building Mentor at SSSC by TechNeeds IGDTUW since June 2025, I have been guiding students through the fundamentals of front-end development, helping them build real-world projects using HTML, CSS, and JavaScript. Alongside technical mentorship, I also assist mentees in crafting impactful resumes tailored for internships and tech roles, offering personalized feedback and industry-ready formatting tips. My mentorship focuses on building confidence, encouraging consistency in learning, and preparing students for both technical and professional growth in the early stages of their careers.",
     ],
   }
 ];
