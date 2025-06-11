@@ -562,72 +562,72 @@ const certificates = [
     title: "Contributor",
     issuer: "GSSOC",
     image: "/assets/Certi/gsso.jpg",
-    description: "Comprehensive frontend development certification covering HTML, CSS, JavaScript, and React fundamentals.",
+    
   },
   {
     title: "Full Stack Web Development",
     issuer: "100xDevs",
     image: "/assets/Certi/full.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "HACK-IT-UP Hackathon",
     issuer: "MSC-IGDTUW",
     image: "/assets/Certi/MS.jpg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "DEVACATION'25 Hackathon",
     issuer: "GDG-IGDTUW",
     image: "/assets/Certi/gd.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "AGENT'S FEST 2k25",
     issuer: "IEEE-AMITY",
     image: "/assets/Certi/ami.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "HACK FOR IMPACT",
     issuer: "ECELL-IIITD",
     image: "/assets/Certi/imp.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "0 to 1 Hackathon",
     issuer: "ECELL-IIITD",
     image: "/assets/Certi/0.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "AM HACKS",
     issuer: "ASSETMERKLE-IGDTUW",
     image: "/assets/Certi/am.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "BuildWithIndia",
     issuer: "HackwithIndia",
     image: "/assets/Certi/bu.jpg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "LEAN IN HACKS 6.0",
     issuer: "LEAN IN-IGDTUW",
     image: "/assets/Certi/lean.jpeg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },{
     title: "WIEMPOWER 6.0",
     issuer: "IEEE-IGDTUW",
     image: "/assets/Certi/IEE.jpg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   {
     title: "GLB Hackathon 4.0",
     issuer: "TECH VISOR CLUB",
     image: "/assets/Certi/gb.jpg",
-    description: "Complete full-stack development certification focusing on MongoDB, Express.js, React, and Node.js.",
+    
   },
   // Add more certificates as needed
 ];
